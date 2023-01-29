@@ -1,0 +1,275 @@
+
+.common-btn{
+    border: 1px solid aqua;
+    background-color: aqua;
+    border-radius: 27px;
+    padding: 8px 17px;
+    font-weight: 700;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.767);
+}
+
+.heri{
+    border: 1px solid aqua;
+    border-radius: 27px;
+    padding: 8px 17px;
+    font-weight: 700;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+}
+header{
+    background-color: white;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    top: 0;
+}
+.header{
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.logo{
+    padding-top: 22px;
+}
+
+
+nav ul li{
+    list-style: none;
+    padding-top: 8px;
+}
+nav ul li:last-child{
+    background-color: aqua;
+    padding: 8px 15px;
+    border-radius: 27px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+/* BANNER SECTION */
+.innnn{
+    margin-top: 75px;
+}
+.till{
+    background-image: url(../imeges/ima.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 566px;
+    color: white;
+
+}
+.home h1{
+    padding-top: 131px;
+    font-size: 52px;
+    font-weight: 440;
+}
+.home p{
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 14px;
+}
+.home a{
+    /* padding-left: 601px; */
+    text-decoration: none;
+    color: black;
+    border: 10px 50px 1px solid red;
+}
+
+/* COMPANY LOGO SECTION */
+
+.hettr{
+    background-color: #80808063;
+}
+.sitee{
+    padding-left: 53px;
+    padding-right: 53px;
+}
+
+.company img{
+    padding: 26px 24px 20px;
+}
+
+/* TRAVEL SECTION */
+.lekha{
+    padding: 69px 100px 87px;
+}
+
+.travel{
+    width: 1348px;
+}
+.travel img{
+    width: 674px;
+    height: 430px;
+}
+.travel .lekha{
+    width: 674px;
+}
+
+/* BUILT SECTION */
+.up{
+    height: 300px;
+    background-color: #8080807e;
+}
+
+.up h4{
+    font-weight: 700;
+    font-size: 30px;
+
+}
+.up p{
+    font-size: 17px;
+}
+.middle{
+    padding-top: 60px;
+    text-align: center;
+}
+
+/*  UNLOCK SECTION*/
+
+.padd .immmg{
+    padding: 18px 25px 36px 0px;
+}
+
+.immmg img{
+    height: 202px;
+    width: 355px;
+}
+.padd h6{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: 700;
+}
+.padd h4{
+    font-weight: 700;
+}
+.padd p{
+    padding-top: 15px;
+    font-size: 18px;
+    font-weight: 490;
+}
+
+.crrk{
+    height: 108px;
+    width: 32px;
+}
+
+/* SUBMIT SECTION */
+.clrr{
+    background-color: #1B222C;
+    height: 1000px;
+}
+
+.fulll{
+    width: 100%;
+    padding-top: 83px;
+}
+
+.lets{
+    color: white;
+}
+.lets h3{}
+
+.lets p{
+    color: rgba(255, 255, 255, 0.733);
+}
+.fulll .lets{
+    width: 40%;
+}
+.fulll .select{
+    width: 60%;
+}
+.second{
+    padding-top: 30px;
+}
+
+.third{
+    padding-top: 30px;
+}
+.left{
+    padding-left: 38px;
+}
+
+.unmrk{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-label{
+    color: rgba(255, 255, 255, 0.733);
+}
+/* 2nd part */
+
+.fst h3{
+    color: white;
+    padding-top: 83px;
+    padding-bottom: 55px;
+    font-weight: 500;
+}
+
+.bxx h4{
+    color: white;
+    padding-bottom: 19px;
+}
+.bxx p{
+    color: white;
+    padding-bottom: 19px;
+    font-size: 17px;
+}
+.ppd{
+    padding: 18px 25px 36px 0px;
+}
+
+/* FOOTER SECTION */
+.clr{
+    background-color: #3F454D;
+    height: 578px;
+}
+.hlw{
+    padding-top: 75px;
+}
+.hilo{
+    color: white;
+}
+
+.root{
+    padding-left: 134px;
+}
+
+.root ul li{
+    list-style: none;
+    padding-top: 5px;
+}
+
+.root ul li a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.466);
+
+}
+.log{
+    padding-top: 63px;
+    color: white;
+}
+.log img{
+    /* height: 5px;
+    width: 5px; */
+    padding-right: 10px;
+}
+.log h5{
+    padding-top: 7px;
+}
+
+
+
+
+
+
+
+
